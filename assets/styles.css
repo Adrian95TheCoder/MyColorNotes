@@ -5,3 +5,8 @@
     margin: 0;
     padding: 0;
 }
+body{
+    /* font-family: 'Just Another Hand', cursive; */
+font-family: 'Poppins', sans-serif;
+background-color: #ddd;
+}
